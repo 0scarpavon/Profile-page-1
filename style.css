@@ -1,0 +1,12 @@
+/*you can call on any tag, id, or class name to change properties in CSS*/
+/*CSS is almost endless - so if you are curious if you can change something, google it!*/
+
+/*every tag starts with:*/
+/*elementName/ID/Class{*/
+/*    propertyName: what you are changing to; <-- this semi colon is IMPORTANT!*/
+/*}*/
+
+body{
+    background-color: pink;
+    /*you could add more properties to change right in here, no need to call body again.*/
+}
